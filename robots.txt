@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weightlossgreenbay.com/sitemap.xml
